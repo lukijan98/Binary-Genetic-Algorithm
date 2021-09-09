@@ -1,5 +1,7 @@
-# Binary-Genetic-Algorithm
-Note: You can read all this in the  comments of the code.
+# Binary Genetic Algorithm
+Homework for class "Genetic Algorithms" at Računarski fakultet
+
+
 
 ## Encoding and decoding functions
 The normalization function is used for encoding and decoding. The values of the variables are scaled to the interval (0, 1). The function is then used to convert to binary value.
